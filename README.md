@@ -1,1 +1,1 @@
-Este material fue del curso del python de midudev
+Este material fue del curso de python de midudev
